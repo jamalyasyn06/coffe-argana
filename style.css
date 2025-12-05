@@ -281,6 +281,10 @@ font-size: 14px;
 #footer .rows ul li {
    font-size:14px; 
 }
+#footer .rows ul li i{
+    color: rgb(145, 145, 185);
+    margin-right: 8px;
+}
 #footer .auther{
     color: var(--bg-color);
     background-color: rgb(39, 39, 53);
@@ -427,4 +431,5 @@ font-size: 14px;
     grid-template-columns:none;
     gap: 0;
 }
+
 }

@@ -387,6 +387,11 @@ font-size: 14px;
 #Contact form .submit{
     max-width: 50%;
 }
+    #Contact form input,
+#Contact form textarea{
+    margin: 10px 20px ;
+    width: 90%;
+}
 #footer{
     padding-top: 1rem;
     padding-left: 1rem;
@@ -433,4 +438,5 @@ font-size: 14px;
 }
 
 }
+
 

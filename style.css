@@ -387,7 +387,7 @@ font-size: 14px;
 #Contact form .submit{
     max-width: 50%;
 }
-    #Contact form input,
+#Contact form input,
 #Contact form textarea{
     margin: 10px 20px ;
     width: 90%;
@@ -438,5 +438,6 @@ font-size: 14px;
 }
 
 }
+
 
 
